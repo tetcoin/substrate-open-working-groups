@@ -1,6 +1,6 @@
 ![Substrate Logo](./src/substrate_logo.png)
 
-# Substrate Open Working Groups (SOWGs)
+# Tetcore Open Working Groups (SOWGs)
 
 
 The Susbstrate Open Working Groups (SOWG) are community-based mechanisms to develop standards, specifications, implementations, guidelines or general initiatives in regards to the [Substrate framework](https://github.com/paritytech/substrate).
